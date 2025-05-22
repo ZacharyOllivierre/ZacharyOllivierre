@@ -8,7 +8,7 @@
 <br><br>
 ## 🌐 How to Reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/zach-ollivierre-zo1313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/zach-ollivierre-zo1313)
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:ollivierre1313@gmail.com@example.com)
 <br><br>
