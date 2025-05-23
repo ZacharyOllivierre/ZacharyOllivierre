@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/zach-ollivierre-zo1313)
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:ollivierre1313@gmail.com@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:ollivierre1313@gmail.com)
 <br><br>
 ## 📚 2025 Reading List (Upcoming)
 
