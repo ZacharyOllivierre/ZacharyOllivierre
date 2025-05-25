@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zachary Ollivierre
 
-🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on Hangman
+🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on ...
 <br><br>
 ## 💻 (Soon to be Expanding) Tech Stack:
 
