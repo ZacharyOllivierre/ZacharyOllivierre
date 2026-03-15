@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:ollivierre1313@gmail.com)
 <br><br>
-## 📚 2025 Reading List (Upcoming)
+## 📚 2026 Reading List (Upcoming)
 
 The Design of Everyday Things - Don Norman
 
