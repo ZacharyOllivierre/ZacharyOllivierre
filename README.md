@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Zachary Ollivierre
+# Hi I'm Zachary Ollivierre
 
 🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on ...
 <br><br>
@@ -20,6 +20,3 @@ Moonwalking with Einstein - Joshua Foer
 
 Structured Design - Edward Yourdon / Larry L. Constantine
 <br><br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZacharyOllivierre&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
