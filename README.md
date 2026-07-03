@@ -2,9 +2,6 @@
 
 🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on ...
 <br><br>
-## 💻 (Soon to be Expanding) Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br>
 ## 🌐 How to Reach me: 
 
