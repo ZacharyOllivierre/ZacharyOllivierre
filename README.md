@@ -1,6 +1,6 @@
 # Hi I'm Zachary Ollivierre
 
-🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on ...
+🎓 Im Currently Studying Computer Science at Saddleback College<br>🎯 Learning C++ and Python<br>📝Currently Working on Project Hail Mary (Summer Game Project)
 <br><br>
 <br><br>
 ## 🌐 How to Reach me: 
